@@ -4,7 +4,7 @@
 }
  
 body{
-    background: dimgrey;
+    background: #eee;
 }
 
 .navbar{
@@ -42,8 +42,5 @@ td{
     background: turquoise;
 }
 
-.jizz{
-    color: #c4dcf3;
-    /* color: #eef7ff; */
-}
+
 
