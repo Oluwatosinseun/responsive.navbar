@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ 
+body{
+    background: dimgrey;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.thing ul a{
+    color: #000;
+    padding: 10px;
+}
+
+.thd{
+    background: #427fef;
+    
+}
+
+.cover{
+    padding-left: 20px;
+    margin: 10px;
+}
+table{
+    width: 40%;
+    height: 80%;
+    border-collapse: collapse;
+}
+
+
+td{
+    padding: 10px;
+}
+
+.cup{
+    background: turquoise;
+}
+
+.jizz{
+    color: #c4dcf3;
+    /* color: #eef7ff; */
+}
+
